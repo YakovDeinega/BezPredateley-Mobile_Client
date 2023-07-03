@@ -1,4 +1,3 @@
 # BezPredateley
 
-
 Smth for Smth
